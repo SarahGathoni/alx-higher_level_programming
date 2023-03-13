@@ -1,3 +1,3 @@
 #!/usr/bin/node
-cost myVar = "JavaScript is amazing"
-console.log(myVar)
+cost myVar = "JavaScript is amazing";
+console.log(myVar);
